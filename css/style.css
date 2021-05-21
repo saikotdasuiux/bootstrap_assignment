@@ -1,0 +1,13 @@
+.alert_custom{
+	color: red;
+    background-color: yellow;
+    border-color: #ffecb5;
+}
+
+.btn{
+	margin-bottom: 20px;
+}
+
+.accordion{
+	margin-bottom: 20px;
+}
